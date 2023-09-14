@@ -40,7 +40,7 @@ export class Social {
 
 ## Toolkit:
 
-### Programming Languages
+### Programming Languages I'm familiar with
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
@@ -104,7 +104,7 @@ export class Social {
 <img align="right" width="30px" src="./assets/cecytem.png" />
 
 - 📖 **&nbsp;Technical Programming Program**\
-📆 &nbsp;2018 - 2021\
+📆 &nbsp;2016 - 2019\
 📍 **&nbsp;[CECyTEM 17](http://cdhidalgo.cecytem.net/)** - Ciudad Hidalgo, Michoacán, México
 
 
