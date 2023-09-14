@@ -138,7 +138,7 @@ export class Social {
 📍 **Instituto Tecnológico Superior De Ciudad Hidalgo** - Ciudad Hidalgo, Michoacán, México
 
 
-## Personal  Projects
+## Projects
 
 <p align="right">
 
