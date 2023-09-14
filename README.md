@@ -19,7 +19,7 @@ export class Programming {
 
   languages: string[] = ['Java', 'JavaScript', 'PHP', 'Python']
   stylesheets: string[] = ['CSS', 'SASS', 'SCSS']
-  frameworks: string[] = ['AngularJS', 'Bootstrap']
+  frameworks: string[] = ['Bootstrap']
   runtimes: string[] = ['Node']
   databases: string[] = ['MySQL', 'MariaDB']
   learning: string[] = ['tailwind', 'Angular', 'Mongo']
