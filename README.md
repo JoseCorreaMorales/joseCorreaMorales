@@ -146,6 +146,8 @@ export class Social {
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=radical "APapeleriaJIM")](https://github.com/josecorreamorales/PapeleriaJIM)
 
+[![Jag Pay Transit](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=rfidproject&theme=radical "rfidproject")](https://github.com/josecorreamorales/rfidproject)
+
 [![headphones-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=radical "headphones-landing-page")](https://github.com/josecorreamorales/headphones-landing-page)
 
 [![Landing-page-courses](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=radical "Landing-page-courses")](https://github.com/josecorreamorales/Landing-page-courses)
