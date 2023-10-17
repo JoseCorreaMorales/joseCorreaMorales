@@ -40,7 +40,7 @@ export class Social {
 
 ## Languages, tools, Workspaces and frameworks I'm familiar with:
 
-### Programming Languages
+### Programming Languages I'm familiar with
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
@@ -108,7 +108,7 @@ export class Social {
 <img align="right" width="30px" src="./assets/cecytem.png" />
 
 - 📖 **&nbsp;Technical Programming Program**\
-📆 &nbsp;2018 - 2021\
+📆 &nbsp;2016 - 2019\
 📍 **&nbsp;[CECyTEM 17](http://cdhidalgo.cecytem.net/)** - Ciudad Hidalgo, Michoacán, México
 
 
@@ -142,26 +142,19 @@ export class Social {
 📍 **Instituto Tecnológico Superior De Ciudad Hidalgo** - Ciudad Hidalgo, Michoacán, México
 
 
-## Personal  Projects
+## Projects
 
-<p align="center">
-  <a href="https://github.com/josecorreamorales/PapeleriaJIM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=rose" alt="PapeleriaJIM">
-  </a>
-  <a href="https://github.com/josecorreamorales/headphones-landing-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=rose" alt="headphones-landing-page">
-  </a>
+<p align="right">
+
 </p>
 
-<p align="center">
-  <a href="https://github.com/josecorreamorales/Landing-page-courses">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=rose" alt="Landing-page-courses">
-  </a>
-  <a href="https://github.com/josecorreamorales/SmartHomeApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=rose" alt="SmartHomeApp">
-  </a>
-</p>
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=radical "APapeleriaJIM")](https://github.com/josecorreamorales/PapeleriaJIM)
 
+[![headphones-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=radical "headphones-landing-page")](https://github.com/josecorreamorales/headphones-landing-page)
+
+[![Landing-page-courses](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=radical "Landing-page-courses")](https://github.com/josecorreamorales/Landing-page-courses)
+
+[![SmartHomeApp](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=radical "SmartHomeApp")](https://github.com/josecorreamorales/SmartHomeApp)
 
  
 </details>
