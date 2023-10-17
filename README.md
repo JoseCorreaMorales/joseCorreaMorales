@@ -144,17 +144,24 @@ export class Social {
 
 ## Projects
 
-<p align="right">
-
+<p align="center">
+  <a href="https://github.com/josecorreamorales/PapeleriaJIM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=rose" alt="PapeleriaJIM">
+  </a>
+  <a href="https://github.com/josecorreamorales/headphones-landing-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=rose" alt="headphones-landing-page">
+  </a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=radical "APapeleriaJIM")](https://github.com/josecorreamorales/PapeleriaJIM)
+<p align="center">
+  <a href="https://github.com/josecorreamorales/Landing-page-courses">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=rose" alt="Landing-page-courses">
+  </a>
+  <a href="https://github.com/josecorreamorales/SmartHomeApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=rose" alt="SmartHomeApp">
+  </a>
+</p>
 
-[![headphones-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=radical "headphones-landing-page")](https://github.com/josecorreamorales/headphones-landing-page)
-
-[![Landing-page-courses](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=radical "Landing-page-courses")](https://github.com/josecorreamorales/Landing-page-courses)
-
-[![SmartHomeApp](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=radical "SmartHomeApp")](https://github.com/josecorreamorales/SmartHomeApp)
 
  
 </details>
