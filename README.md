@@ -22,7 +22,7 @@ export class Programming {
   frameworks: string[] = ['Bootstrap']
   runtimes: string[] = ['Node']
   databases: string[] = ['MySQL', 'MariaDB']
-  learning: string[] = ['tailwind', 'Angular', 'Mongo']
+  learning: string[] = ['tailwind', 'React', 'Mongo']
   projects: string[] = ['IoT rfidproject', 'Angular inventory app', 'Headphones landing page', 'Courses landing page']
 
 }
@@ -38,7 +38,7 @@ export class Social {
 ```
 
 
-## Toolkit:
+## Languages, tools, Workspaces and frameworks I'm familiar with:
 
 ### Programming Languages
 
@@ -52,48 +52,52 @@ export class Social {
 
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=synthwave"
-    alt="josecorreamorales" />
-</p>
+<a href="https://github.com/josecorreamorales?tab=repositories">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=josecorreamorales&show_icons=true&theme=dracula&rank_icon=github" />
+</a>
+<a href="https://github.com/josecorreamorales?tab=repositories">
+  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=onedark&hide=html,scss,prolog" />
+</a>
+<p>
 
-
-### Frontend and design stack
+### Frontend and design
 
 <p align="center">
   <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS Icon" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Icon" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Icon" />
   <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icon" />
-  <img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon" />
    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop Icon" />
 <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator Icon" />
-
+<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma CSS" />
 </p>
 
-### Backend Stack
+### Backend
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Icon" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Icon" />
    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon" />
   <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Icon" />
+  <img src="https://img.shields.io/badge/-Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white" alt="Lumen" />
+  
 </p>
 
-### Workspace and tools I'm familiar with
+### Workspace and tools
 <p align="center">
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Icon" />
 <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans Icon" />
+<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Icon" />
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Icon" />
+<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Icon" />
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Icon" />
+<img src="https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal Icon" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Icon" />
 </p>
 
 
-
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=josecorreamorales&show_icons=true&theme=synthwave"
-    alt="josecorreamorales" />
 <details>
   <summary>📃 &nbsp;Resume</summary>
 
@@ -140,17 +144,24 @@ export class Social {
 
 ## Personal  Projects
 
-<p align="right">
-
+<p align="center">
+  <a href="https://github.com/josecorreamorales/PapeleriaJIM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=rose" alt="PapeleriaJIM">
+  </a>
+  <a href="https://github.com/josecorreamorales/headphones-landing-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=rose" alt="headphones-landing-page">
+  </a>
 </p>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=radical "APapeleriaJIM")](https://github.com/josecorreamorales/PapeleriaJIM)
+<p align="center">
+  <a href="https://github.com/josecorreamorales/Landing-page-courses">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=rose" alt="Landing-page-courses">
+  </a>
+  <a href="https://github.com/josecorreamorales/SmartHomeApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=rose" alt="SmartHomeApp">
+  </a>
+</p>
 
-[![headphones-landing-page](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=radical "headphones-landing-page")](https://github.com/josecorreamorales/headphones-landing-page)
-
-[![Landing-page-courses](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=radical "Landing-page-courses")](https://github.com/josecorreamorales/Landing-page-courses)
-
-[![SmartHomeApp](https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=radical "SmartHomeApp")](https://github.com/josecorreamorales/SmartHomeApp)
 
  
 </details>
