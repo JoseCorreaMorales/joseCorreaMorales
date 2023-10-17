@@ -40,7 +40,7 @@ export class Social {
 
 ## Languages, tools, Workspaces and frameworks I'm familiar with:
 
-### Programming Languages I'm familiar with
+### Programming Languages
 
 <p align="center">
   <img src="https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
