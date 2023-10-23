@@ -2,6 +2,9 @@
  &#128075 Hi, there!
 </h1>
 
+[![ Jose Correa Morales - Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F52CF7&center=true&vCenter=true&random=false&width=435&lines=Jose+Correa+Morales)](https://git.io/typing-svg)
+
+
 ```ts
 export class Info {
 
