@@ -32,7 +32,7 @@ export class Programming {
 
 export class Social {
 
-  website: string = 'coming soon'
+  website: string = 'https://josecorreamorales.netlify.app/'
   github: string = 'josecorreamorales'
   discord: string = 'josecorream.'
   linkedin: string = 'linkedin.com/in/jose-correa-morales/'
