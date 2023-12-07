@@ -2,13 +2,17 @@
  &#128075 Hi, there!
 </h1>
 
-[![ Jose Correa Morales - Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=F52CF7&center=true&vCenter=true&random=false&width=435&lines=Jose+Correa+Morales)](https://git.io/typing-svg)
+<center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=100&size=19&pause=1000&color=7B66FF&background=FF000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Jose+Correa+Morales)](https://git.io/typing-svg)
+</center>
+
 
 
 ```ts
 export class Info {
 
-  name: string = 'jose correa m.'
+  name: string = 'Jose Correa M.'
   age: number = 22
   nationality: string[] = ['Mexican']
   languages: Record<string, string>[] = [{ 'Spanish': 'Native' }, { 'English': 'B1' }]
@@ -98,11 +102,15 @@ export class Social {
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Icon" />
 <img src="https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal Icon" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Icon" />
+<img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Icon" />
+  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Icon" />
+  <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Icon" />
 </p>
 
+## Check my resume down below 👇
 
 <details>
-  <summary>📃 &nbsp;Resume</summary>
+  <summary>📃 &nbsp; Resume </summary>
 
 
 
