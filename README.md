@@ -79,6 +79,7 @@ export class Social {
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon" />
    <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop Icon" />
 <img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator Icon" />
+<img src="https://img.shields.io/badge/-picocss-11191f?style=for-the-badge&logo=pico&logoColor=white" alt="Adobe Illustrator Icon" />
 <img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma CSS" />
 </p>
 
