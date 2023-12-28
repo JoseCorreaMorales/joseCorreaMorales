@@ -62,10 +62,10 @@ export class Social {
 
 <p align="center">
 <a href="https://github.com/josecorreamorales?tab=repositories">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=josecorreamorales&show_icons=true&theme=dracula&rank_icon=github" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=josecorreamorales&show_icons=true&theme=dracula&rank_icon=github" />
 </a>
 <a href="https://github.com/josecorreamorales?tab=repositories">
-  <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=onedark&hide=html,scss,prolog" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=onedark&hide=html,scss,prolog" />
 </a>
 <p>
 
