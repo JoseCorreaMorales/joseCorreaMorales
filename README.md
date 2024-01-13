@@ -128,6 +128,14 @@ export class Social {
   📆 2019 - Present\
   📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/)** - Ciudad Hidalgo, Michoacán, México
 
+  <img align="right" width="30px" src="./assets/cle-itsch.jpg" />
+
+- 📖 **&nbsp;B1 (CEFR) English course**\
+  📆 2019 - 2022\
+  📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/cle/ingles-para-adultos)** - Ciudad Hidalgo, Michoacán, México
+
+
+
 <img align="right" width="30px" src="https://images.yourstory.com/cs/images/companies/2285207618830913950642491767292441397477388n-1597645659433.png?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff" />
 
 - 📖 **&nbsp;Udemy Bootcamp**\
@@ -152,7 +160,7 @@ export class Social {
 
 <p align="center">
   <a href="https://github.com/josecorreamorales/PapeleriaJIM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=catppuccin_latte " alt="PapeleriaJIM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=catppuccin_latte" alt="PapeleriaJIM">
   </a>
   <a href="https://github.com/josecorreamorales/headphones-landing-page">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=moltack" alt="headphones-landing-page">
@@ -173,10 +181,10 @@ export class Social {
 ## IA Projects 🤖
 <p align="center">
 <a href="https://github.com/JoseCorreaMorales/ImagePrediction-tersorflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=ImagePrediction-tersorflow&theme=calm ">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=ImagePrediction-tersorflow&theme=calm">
 </a>
 <a href="https://github.com/JoseCorreaMorales/Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow&theme=calm ">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow&theme=calm">
 </a>
 </p>
 
