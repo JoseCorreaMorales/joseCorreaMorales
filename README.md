@@ -5,45 +5,45 @@
 <center>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=100&size=19&pause=1000&color=7B66FF&background=FF000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Jose+Correa+Morales)](https://git.io/typing-svg)
+
 </center>
-
-
 
 ```ts
 export class Info {
-
-  name: string = 'Jose Correa M.'
-  age: number = 22
-  nationality: string[] = ['Mexican']
-  languages: Record<string, string>[] = [{ 'Spanish': 'Native' }, { 'English': 'B1' }]
-  school: string = 'Instituto Tecnológico Superior De Ciudad Hidalgo'
-  occupation: string = 'Student'
-  freetime: string[] = ['Gym', 'Reading', 'Hanging out with friends']
-
+  name: string = "Jose Correa M.";
+  age: number = 22;
+  nationality: string[] = ["Mexican"];
+  languages: Record<string, string>[] = [
+    { Spanish: "Native" },
+    { English: "B1" },
+  ];
+  school: string = "Instituto Tecnológico Superior De Ciudad Hidalgo";
+  occupation: string = "Student";
+  freetime: string[] = ["Gym", "Reading", "Hanging out with friends"];
 }
 
 export class Programming {
-
-  languages: string[] = ['Java', 'JavaScript', 'PHP', 'Python']
-  stylesheets: string[] = ['CSS', 'SASS', 'SCSS']
-  frameworks: string[] = ['Bootstrap']
-  runtimes: string[] = ['Node']
-  databases: string[] = ['MySQL', 'MariaDB']
-  learning: string[] = ['tailwind', 'React', 'Mongo']
-  projects: string[] = ['IoT rfidproject', 'Angular inventory app', 'Headphones landing page', 'Courses landing page']
-
+  languages: string[] = ["Java", "JavaScript", "PHP", "Python"];
+  stylesheets: string[] = ["CSS", "SASS", "SCSS"];
+  frameworks: string[] = ["Bootstrap"];
+  runtimes: string[] = ["Node"];
+  databases: string[] = ["MySQL", "MariaDB"];
+  learning: string[] = ["tailwind", "React", "Mongo"];
+  projects: string[] = [
+    "IoT rfidproject",
+    "Angular inventory app",
+    "Headphones landing page",
+    "Courses landing page",
+  ];
 }
 
 export class Social {
-
-  website: string = 'https://josecorreamorales.netlify.app/'
-  github: string = 'josecorreamorales'
-  discord: string = 'josecorream.'
-  linkedin: string = 'linkedin.com/in/jose-correa-morales/'
-
+  website: string = "https://josecorreamorales.netlify.app/";
+  github: string = "josecorreamorales";
+  discord: string = "josecorream.";
+  linkedin: string = "linkedin.com/in/jose-correa-morales/";
 }
 ```
-
 
 ## Languages, tools, Workspaces and frameworks I'm familiar with:
 
@@ -58,7 +58,6 @@ export class Social {
   <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Icon"/>
 
 </p>
-
 
 <p align="center">
 <a href="https://github.com/josecorreamorales?tab=repositories">
@@ -84,6 +83,7 @@ export class Social {
 </p>
 
 ### Backend
+
 <p align="center">
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Icon" />
   <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Icon" />
@@ -94,6 +94,7 @@ export class Social {
 </p>
 
 ### Workspace and tools
+
 <p align="center">
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Icon" />
 <img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans Icon" />
@@ -113,67 +114,70 @@ export class Social {
 <details>
   <summary>📃 &nbsp; Resume </summary>
 
-
-
 ## Education
 
 <img align="right" width="30px" src="./assets/cecytem.png" />
 
 - 📖 **&nbsp;Technical Programming Program**\
-📆 &nbsp;2016 - 2019\
-📍 **&nbsp;[CECyTEM 17](http://cdhidalgo.cecytem.net/)** - Ciudad Hidalgo, Michoacán, México
-
-
+  📆 &nbsp;2016 - 2019\
+  📍 **&nbsp;[CECyTEM 17](http://cdhidalgo.cecytem.net/)** - Ciudad Hidalgo, Michoacán, México
 
 <img align="right" width="30px" src="./assets/itsch.png" />
 
 - 📖 **&nbsp;Computer Systems Engineering**\
-📆 2019 - Present\
-📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/)** - Ciudad Hidalgo, Michoacán, México
-
-
+  📆 2019 - Present\
+  📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/)** - Ciudad Hidalgo, Michoacán, México
 
 <img align="right" width="30px" src="https://images.yourstory.com/cs/images/companies/2285207618830913950642491767292441397477388n-1597645659433.png?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff" />
 
 - 📖 **&nbsp;Udemy Bootcamp**\
-📆 &nbsp;Present\
-📍 **&nbsp;[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu** - Udemy 
+  📆 &nbsp;Present\
+  📍 **&nbsp;[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu** - Udemy
 
 ## Volunteering
 
 <img align="right" width="30px" src="./assets/itsch.png" />
 
 - 👨‍💻 **&nbsp;Volunteer in the design department**\
-📆 &nbsp;2022 - Present\
-📍 **Instituto Tecnológico Superior De Ciudad Hidalgo** - Ciudad Hidalgo, Michoacán, México
+  📆 &nbsp;2022 - Present\
+  📍 **Instituto Tecnológico Superior De Ciudad Hidalgo** - Ciudad Hidalgo, Michoacán, México
 
 <img align="right" width="30px" src="./assets/KLASSTER GROUP .png" />
 
 - 👨‍💻 **&nbsp;Community service at [ITSCH](https://cdhidalgo.tecnm.mx/) as webDev for Klasster Group entrepreneurship**\
-📆 &nbsp;2022 - Present\
-📍 **Instituto Tecnológico Superior De Ciudad Hidalgo** - Ciudad Hidalgo, Michoacán, México
-
+  📆 &nbsp;2022 - Present\
+  📍 **Instituto Tecnológico Superior De Ciudad Hidalgo** - Ciudad Hidalgo, Michoacán, México
 
 ## Projects
 
 <p align="center">
   <a href="https://github.com/josecorreamorales/PapeleriaJIM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=rose" alt="PapeleriaJIM">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=catppuccin_latte " alt="PapeleriaJIM">
   </a>
   <a href="https://github.com/josecorreamorales/headphones-landing-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=rose" alt="headphones-landing-page">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=moltack" alt="headphones-landing-page">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/josecorreamorales/Landing-page-courses">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=rose" alt="Landing-page-courses">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=gruvbox_light" alt="Landing-page-courses">
   </a>
   <a href="https://github.com/josecorreamorales/SmartHomeApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=rose" alt="SmartHomeApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=buefy" alt="SmartHomeApp">
   </a>
 </p>
 
 
- 
+
+## IA Projects 🤖
+<p align="center">
+<a href="https://github.com/JoseCorreaMorales/ImagePrediction-tersorflow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=ImagePrediction-tersorflow&theme=calm ">
+</a>
+<a href="https://github.com/JoseCorreaMorales/Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow"> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow&theme=calm ">
+</a>
+</p>
+
 </details>
