@@ -127,7 +127,7 @@ export class Social {
 ## Education
 
 <!-- UDEMY Bootcamp -->
-<img align="right" width="30px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" />
+<img align="right" width="30px" src="https://cdn.icon-icons.com/icons2/2389/PNG/512/udemy_logo_icon_144775.png" />
 
 - 📖 **&nbsp;Udemy Bootcamp**\
   📆 &nbsp;Present\
