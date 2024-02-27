@@ -103,11 +103,16 @@ export class Social {
 <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Icon" />
 <img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Icon" />
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Icon" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Icon" />
 <img src="https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal Icon" />
 <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Icon" />
 <img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Icon" />
-  <img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Icon" />
-  <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Icon" />
+<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Icon" />
+<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp Icon" />
+<img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Icon" />
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Icon" />
+
+  
 </p>
 
 
@@ -121,31 +126,42 @@ export class Social {
 
 ## Education
 
-<img align="right" width="30px" src="./assets/cecytem.png" />
+<!-- UDEMY Bootcamp -->
+<img align="right" width="30px" src="https://www.udemy.com/staticx/udemy/images/v7/logo-udemy.svg" />
 
-- 📖 **&nbsp;Technical Programming Program**\
-  📆 &nbsp;2016 - 2019\
-  📍 **&nbsp;[CECyTEM 17](http://cdhidalgo.cecytem.net/)** - Ciudad Hidalgo, Michoacán, México
+- 📖 **&nbsp;Udemy Bootcamp**\
+  📆 &nbsp;Present\
+  📍 **&nbsp;[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu** - Udemy
 
+
+
+
+
+<!-- ITSCH ISC -->
 <img align="right" width="30px" src="./assets/itsch.png" />
 
 - 📖 **&nbsp;Computer Systems Engineering**\
   📆 2019 - Present\
   📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/)** - Ciudad Hidalgo, Michoacán, México
 
+
+<!-- ITSCH English -->
   <img align="right" width="30px" src="./assets/cle-itsch.jpg" />
 
 - 📖 **&nbsp;B1 (CEFR) English course**\
   📆 2019 - 2022\
+  📜 **[Certificate](./assets/joseEnglishCertificate.pdf)**\
   📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/cle/ingles-para-adultos)** - Ciudad Hidalgo, Michoacán, México
 
 
+<!-- CECyTEM -->
+<img align="right" width="30px" src="./assets/cecytem.png" />
 
-<img align="right" width="30px" src="https://images.yourstory.com/cs/images/companies/2285207618830913950642491767292441397477388n-1597645659433.png?fm=auto&ar=1:1&mode=fill&fill=solid&fill-color=fff" />
+- 📖 **&nbsp;Technical Programming Program**\
+  📆 &nbsp;2016 - 2019\
+  📍 **&nbsp;[CECyTEM 17](http://cdhidalgo.cecytem.net/)** - Ciudad Hidalgo, Michoacán, México
 
-- 📖 **&nbsp;Udemy Bootcamp**\
-  📆 &nbsp;Present\
-  📍 **&nbsp;[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu** - Udemy
+
 
 ## Volunteering
 
