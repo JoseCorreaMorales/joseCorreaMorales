@@ -2,6 +2,18 @@
  &#128075 Hi, there!
 </h1>
 
+<p align="center">
+  <a href="notion.com" title="soon">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="soon">
+  </a>
+  <a href="gmail.com" title="soon">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="soon">
+  </a>
+  <a href="https://medium.com/@jose-correa-morales" title="Jose Correa Morales">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" alt="soon">
+  </a>
+</p>
+
 <center>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=100&size=19&pause=1000&color=7B66FF&background=FF000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Jose+Correa+Morales)](https://git.io/typing-svg)
@@ -112,13 +124,10 @@ export class Social {
 <img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Icon" />
 <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Icon" />
 
-  
 </p>
 
-
-
-
 > ## Check my resume down below 👇
+>
 > &nbsp;
 
 <details>
@@ -133,17 +142,12 @@ export class Social {
   📆 &nbsp;Present\
   📍 **&nbsp;[The Complete 2023 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/) by Dr. Angela Yu** - Udemy
 
-
-
-
-
 <!-- ITSCH ISC -->
 <img align="right" width="30px" src="./assets/itsch.png" />
 
 - 📖 **&nbsp;Computer Systems Engineering**\
   📆 2019 - Present\
   📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/)** - Ciudad Hidalgo, Michoacán, México
-
 
 <!-- ITSCH English -->
   <img align="right" width="30px" src="./assets/cle-itsch.jpg" />
@@ -153,15 +157,12 @@ export class Social {
   📜 **[Certificate](./assets/joseEnglishCertificate.pdf)**\
   📍 **[Instituto Tecnológico Superior De Ciudad Hidalgo](https://cdhidalgo.tecnm.mx/cle/ingles-para-adultos)** - Ciudad Hidalgo, Michoacán, México
 
-
 <!-- CECyTEM -->
 <img align="right" width="30px" src="./assets/cecytem.png" />
 
 - 📖 **&nbsp;Technical Programming Program**\
   📆 &nbsp;2016 - 2019\
   📍 **&nbsp;[CECyTEM 17](http://cdhidalgo.cecytem.net/)** - Ciudad Hidalgo, Michoacán, México
-
-
 
 ## Volunteering
 
@@ -197,9 +198,8 @@ export class Social {
   </a>
 </p>
 
-
-
 ## IA Projects 🤖
+
 <p align="center">
 <a href="https://github.com/JoseCorreaMorales/ImagePrediction-tersorflow">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=ImagePrediction-tersorflow&theme=calm">
