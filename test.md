@@ -27,4 +27,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/josecorreamorales/josecorreamorales/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/josecorreamorales/josecorreamorales/output/snake.svg" alt="" />
