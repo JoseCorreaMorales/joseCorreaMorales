@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="notion.com" title="Check my personal portfolio, which showcases my current interests, projects, and knowledge " target="_blank">
+  <a href="https://nonchalant-ptarmigan-51f.notion.site/Jose-Correa-M-6087b7bad01a448cbb207e4809c80456" title="Check my personal portfolio, which showcases my current interests, projects, and knowledge " target="_blank">
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Check my personal portfolio, which showcases my current interests, projects, and knowledge" alt="Jose's my personal portfolio, which showcases my current interests, projects, and knowledge on notion">
   </a>
   <a href="mailto:jose.correax@gmail.com?subject=Hello!!" title="Jose's mail" target="_blank" >
@@ -211,4 +211,4 @@ export class Social {
 
 </details>
 
-<img src="https://raw.githubusercontent.com/josecorreamorales/josecorreamorales/output/snake.svg" alt="" />
+<img src="https://raw.githubusercontent.com/josecorreamorales/josecorreamorales/output/snake.svg" alt=""> 
