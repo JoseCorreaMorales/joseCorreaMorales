@@ -16,7 +16,7 @@
 
 <center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=100&size=19&pause=1000&color=7B66FF&background=FF000000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Jose+Correa+Morales)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=30&duration=4000&pause=939&color=FFDDAD&center=true&vCenter=true&random=true&width=450&height=60&lines=Jose+Correa+Morales)](https://git.io/typing-svg)
 
 </center>
 
