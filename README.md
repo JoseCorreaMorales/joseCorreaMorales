@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Check my personal portfolio, which showcases my current interests, projects, and knowledge" alt="Jose's my personal portfolio, which showcases my current interests, projects, and knowledge on notion">
   </a>
   <a href="mailto:jose.correax@gmail.com?subject=Hello!!" title="Jose's mail" target="_blank" >
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Jose's mail" alt="Jose's gmail">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" title="Jose's mail" alt="Jose's gmail">
   </a>
   <a href="https://medium.com/@jose-correa-morales" title="Follow me on Medium" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" alt="Jose's medium page" title="Follow me on Medium">
