@@ -1,22 +1,26 @@
 <h1 align="center">
  &#128075 Hi, there!
+ 
 </h1>
 
 <p align="center">
   <a href="https://nonchalant-ptarmigan-51f.notion.site/Jose-Correa-M-6087b7bad01a448cbb207e4809c80456" title="Check my personal portfolio, which showcases my current interests, projects, and knowledge " target="_blank">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" title="Check my personal portfolio, which showcases my current interests, projects, and knowledge" alt="Jose's my personal portfolio, which showcases my current interests, projects, and knowledge on notion">
+    <img src="https://img.shields.io/badge/Notion-232121?style=for-the-badge&logo=notion&logoColor=white" width="120"  title="Check my personal portfolio, which showcases my current interests, projects, and knowledge" alt="Jose's my personal portfolio, which showcases my current interests, projects, and knowledge on notion">
   </a>
+  <img width="12">
+    <a href="https://medium.com/@jose-correa-morales" title="Follow me on Medium" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" width="150" alt="Jose's medium page" title="Follow me on Medium">
+  </a>
+    <img width="12">
   <a href="mailto:jose.correax@gmail.com?subject=Hello!!" title="Jose's mail" target="_blank" >
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" title="Jose's mail" alt="Jose's gmail">
-  </a>
-  <a href="https://medium.com/@jose-correa-morales" title="Follow me on Medium" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" alt="Jose's medium page" title="Follow me on Medium">
+    <img src="https://img.shields.io/badge/Gmail-232121?style=for-the-badge&logo=gmail&logoColor=white" width="120" title="Jose's mail" alt="Jose's gmail">
   </a>
 </p>
 
 <center>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=38&duration=4000&pause=939&color=FFDDAD&center=true&vCenter=true&random=true&width=450&height=60&lines=Jose+Correa+Morales)](https://github.com/JoseCorreaMorales)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Raleway&weight=700&size=40&duration=4000&pause=939&color=FFDDAD&center=true&vCenter=true&random=true&width=450&height=60&lines=José+Correa+Morales)](https://github.com/JoseCorreaMorales)
+
 
 </center>
 
@@ -57,76 +61,125 @@ export class Social {
 }
 ```
 
-## Languages, tools, Workspaces and frameworks I'm familiar with:
+# Languages, tools, Workspaces and frameworks I'm familiar with:
 
-### Programming Languages
+## // Programming Languages
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Java-FFA500?style=for-the-badge&logo=java&logoColor=white" alt="Java Icon" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    alt="JavaScript Icon" />
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
-    alt="Python Icon" />
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP Icon"/>
-
+<p align="center">
+      <br/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
+   <img width="12" />
+   <img width="12" />
+   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+    <img width="12" />
+   <img width="12" />
+   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
+    <img width="12" />
+   <img width="12" />
+   <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+    <br/>
+    <br/>
 </p>
 
 <p align="center">
 <a href="https://github.com/josecorreamorales?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=josecorreamorales&show_icons=true&theme=dracula&rank_icon=github" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=josecorreamorales&show_icons=true&theme=gruvbox_light&rank_icon=github" />
 </a>
 <a href="https://github.com/josecorreamorales?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=onedark&hide=html,scss,prolog" />
+  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=solarized-light&hide=html,scss,prolog" />
 </a>
 <p>
 
-### Frontend and design
+## Frontend
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="SCSS Icon" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Icon" />
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Icon" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap Icon" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Icon" />
-   <img src="https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Adobe Photoshop Icon" />
-<img src="https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Adobe Illustrator Icon" />
-<img src="https://img.shields.io/badge/-picocss-11191f?style=for-the-badge&logo=pico&logoColor=white" alt="Adobe Illustrator Icon" />
-<img src="https://img.shields.io/badge/-Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" alt="Bulma CSS" />
+<p align="center">
+    <br/>
+    <br/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="html5 logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="bootstrap logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="javascript logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" height="50" alt="bulma logo"  />
+    <img width="12" />
+    <img src="./assets/pico-logo-dark.svg" height="45" alt="PICO CSS logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
+    <img width="12" />
+    <img src="./assets/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" alt="illustrator logo"  />
+<br/>
+    <br/>
+
 </p>
 
-### Backend
+##  Backend
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Icon" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Icon" />
-  <img src="https://img.shields.io/badge/-Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firestore Icon" />
-   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL Icon" />
-  <img src="https://img.shields.io/badge/-MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB Icon" />
-  <img src="https://img.shields.io/badge/-Lumen-E74430?style=for-the-badge&logo=lumen&logoColor=white" alt="Lumen" />
+<p align="center">
+    <br/>
+    <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="50" alt="mariadb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="50" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+    <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" height="50" alt="lumen logo" />
+      <br/>
+    <br/>
   
 </p>
 
-### Workspace and tools
+##  Workspace and tools
 
-<p align="left">
-<img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Icon" />
-<img src="https://img.shields.io/badge/-NetBeans-1B6AC6?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" alt="NetBeans Icon" />
-<img src="https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash Icon" />
-<img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Icon" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman Icon" />
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code Icon" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel Icon" />
-<img src="https://img.shields.io/badge/-Terminal-4D4D4D?style=for-the-badge&logo=terminal&logoColor=white" alt="Terminal Icon" />
-<img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git Icon" />
-<img src="https://img.shields.io/badge/-npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm Icon" />
-<img src="https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva Icon" />
-<img src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white" alt="Xampp Icon" />
-<img src="https://img.shields.io/badge/-Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white" alt="Trello Icon" />
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify Icon" />
+<p align="center">
+    <br/>
+    <br/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="50" alt="postman logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="50" alt="vercel logo" />
+<img width="12" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/netlify/netlify-original.svg" height="50" alt="netlify logo" />
+    <br/>
+    <br/>
 
 </p>
 
-> ## Check my resume down below 👇
+> ## // Check my resume down below <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+>
+>
 >
 > &nbsp;
 
