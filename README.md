@@ -7,11 +7,9 @@
   <a href="https://nonchalant-ptarmigan-51f.notion.site/Jose-Correa-M-6087b7bad01a448cbb207e4809c80456" title="Check my personal portfolio, which showcases my current interests, projects, and knowledge " target="_blank">
     <img src="https://img.shields.io/badge/Notion-232121?style=for-the-badge&logo=notion&logoColor=white" width="120"  title="Check my personal portfolio, which showcases my current interests, projects, and knowledge" alt="Jose's my personal portfolio, which showcases my current interests, projects, and knowledge on notion">
   </a>
-  <img width="12">
     <a href="https://medium.com/@jose-correa-morales" title="Follow me on Medium" target="_blank">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=whit" width="150" alt="Jose's medium page" title="Follow me on Medium">
   </a>
-    <img width="12">
   <a href="mailto:jose.correax@gmail.com?subject=Hello!!" title="Jose's mail" target="_blank" >
     <img src="https://img.shields.io/badge/Gmail-232121?style=for-the-badge&logo=gmail&logoColor=white" width="120" title="Jose's mail" alt="Jose's gmail">
   </a>
