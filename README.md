@@ -25,14 +25,14 @@
 ```ts
 export class Info {
   name: string = "Jose Correa M.";
-  age: number = 22;
+  age: number = 23;
   nationality: string[] = ["Mexican"];
   languages: Record<string, string>[] = [
     { Spanish: "Native" },
     { English: "B1" },
   ];
   school: string = "Instituto Tecnológico Superior De Ciudad Hidalgo";
-  occupation: string = "Student";
+  occupation: string = "Web Developer" | "Developer";
   freetime: string[] = ["Gym", "Reading", "Hanging out with friends"];
 }
 
@@ -110,13 +110,12 @@ export class Social {
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="50" alt="sass logo"  />
     <img width="12" />
-    <img src="./assets/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  />
+    <!-- <img src="./assets/tailwindcss-original-wordmark.svg" height="50" alt="tailwindcss logo"  /> -->
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50" alt="tailwindcss logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo"  />
     <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="50" alt="photoshop logo"  />
-    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="50" alt="illustrator logo"  />
+  <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" height="50" alt="daisy-ui logo"  />
 <br/>
     <br/>
 
