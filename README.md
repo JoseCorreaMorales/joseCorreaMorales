@@ -273,11 +273,11 @@ export class Social {
 ## ⚡ Career Growth Learning Platforms Profiles
 
 <p align="center">
-<a href="" target="_blank">
+<a href="https://platzi.com/p/JoseCorreaMorales/" target="_blank">
   <img src="https://img.shields.io/badge/Platzi-98CA3F?style=flat&logo=platzi&logoColor=white" height="40" alt="Platzi" title="Platzi Profile" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://codigofacilito.com/usuarios/JoseCorreaMorales" target="_blank">
   <img src="https://img.shields.io/badge/🐊Código%20Facilito-262b34?style=flat&logo=https://imgur.com/RC3OQ3T" height="40" alt="Código Facilito" title="Perfil en Código Facilito" />
 </a>
 </p>
