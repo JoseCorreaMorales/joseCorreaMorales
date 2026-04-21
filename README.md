@@ -27,21 +27,21 @@
 </center>
 
 ```ts
-export class Info {
+export class DeveloperInfo {
   name: string = "Jose Correa M.";
-  age: number = 23;
+  age: number = 24;
   nationality: string[] = ["Mexican"];
   languages: Record<string, string>[] = [
     { Spanish: "Native" },
     { English: "B1" },
   ];
-  school: string = "Instituto Tecnológico Superior De Ciudad Hidalgo";
+  school: string = "Instituto Tecnológico Superior De Ciudad Hidalgo (ITSCH)";
   occupation: string = "Web Developer" | "Developer";
   freetime: string[] = ["Gym", "Reading", "Hanging out with friends"];
 }
 
 export class Programming {
-  languages: string[] = ["Java", "JavaScript", "PHP", "Python"];
+  languages: string[] = ["Java", "JavaScript", "Python", "TypeScript"];
   stylesheets: string[] = ["CSS", "SASS", "SCSS"];
   frameworks: string[] = ["Bootstrap"];
   runtimes: string[] = ["Node"];
@@ -77,11 +77,14 @@ export class Social {
     <img width="12" />
    <img width="12" />
    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="typescript logo" title="TypeScript" />
+    <img width="12" />
+   <img width="12" />
+   <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
     <img width="12" />
    <img width="12" />
    <img width="12" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
     <br/>
     <br/>
 </p>
@@ -119,6 +122,10 @@ export class Social {
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50" alt="react logo" title="React.js" />
     <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" height="50" alt="expo logo" title="React Native + Expo" />
+    <img width="12" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="50" alt="angular logo" title="Angular" />
+    <img width="12" />
   <img src="https://raw.githubusercontent.com/saadeghi/daisyui-images/master/images/daisyui-logo/favicon-192.png" height="50" alt="daisy-ui logo" title="Daisy UI" />
     <img width="12" />
   <img src="https://www.material-tailwind.com/image/logo-mt.png" height="50"  title="Tailwind Material" alt="Tailwind Material"  />
@@ -147,26 +154,29 @@ export class Social {
   
 </p>
 
-##  Workspace and tools
+##  Workspace and Developer tools
 
 <p align="center">
     <br/>
     <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="50" alt="ubuntu logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="linux logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
   <img width="12" />
+<img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/cursor.png" height="50" alt="cursor logo" title="Cursor" />
+  <img width="12" />
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/claude-color.png" height="50" alt="claude code logo" title="Claude Code" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@2.1.1/public/icons/github-copilot/dark.svg" height="50" alt="github copilot logo" title="GitHub Copilot" />
+  <img width="12" />
+ <img src="https://cdn.jsdelivr.net/npm/@lobehub/icons-static-svg@1.84.0/icons/mcp.svg" height="50" alt="mcp logo" title="Model Context Protocol (MCP)" />
+ <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="50" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="50" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="50" alt="apache logo"  />
   <img width="12" />
