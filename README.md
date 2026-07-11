@@ -91,10 +91,10 @@ export class Social {
 
 <p align="center">
 <a href="https://github.com/josecorreamorales?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api?username=josecorreamorales&show_icons=true&theme=gruvbox_light&rank_icon=github" />
+  <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api?username=josecorreamorales&show_icons=true&theme=gruvbox_light&rank_icon=github" />
 </a>
 <a href="https://github.com/josecorreamorales?tab=repositories">
-  <img height="180" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=solarized-light&hide=html,scss,prolog" />
+  <img height="180" align="center" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=josecorreamorales&layout=compact&theme=solarized-light&hide=html,scss,prolog" />
 </a>
 <p>
 
@@ -148,6 +148,10 @@ export class Social {
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
     <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="postgresql logo" title="PostgreSQL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" height="50" alt="supabase logo" title="Supabase" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lumen/lumen-original.svg" height="50" alt="lumen logo" />
       <br/>
     <br/>
@@ -248,19 +252,19 @@ export class Social {
 
 <p align="center">
   <a href="https://github.com/josecorreamorales/PapeleriaJIM">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=catppuccin_latte" alt="PapeleriaJIM">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=josecorreamorales&repo=PapeleriaJIM&theme=catppuccin_latte" alt="PapeleriaJIM">
   </a>
   <a href="https://github.com/josecorreamorales/headphones-landing-page">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=moltack" alt="headphones-landing-page">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=josecorreamorales&repo=headphones-landing-page&theme=moltack" alt="headphones-landing-page">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/josecorreamorales/Landing-page-courses">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=gruvbox_light" alt="Landing-page-courses">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=josecorreamorales&repo=Landing-page-courses&theme=gruvbox_light" alt="Landing-page-courses">
   </a>
   <a href="https://github.com/josecorreamorales/SmartHomeApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=buefy" alt="SmartHomeApp">
+    <img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=josecorreamorales&repo=SmartHomeApp&theme=buefy" alt="SmartHomeApp">
   </a>
 </p>
 
@@ -268,10 +272,10 @@ export class Social {
 
 <p align="center">
 <a href="https://github.com/JoseCorreaMorales/ImagePrediction-tersorflow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=ImagePrediction-tersorflow&theme=calm">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=josecorreamorales&repo=ImagePrediction-tersorflow&theme=calm">
 </a>
 <a href="https://github.com/JoseCorreaMorales/Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow"> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=josecorreamorales&repo=Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow&theme=calm">
+<img src="https://github-readme-stats-fast.vercel.app/api/pin/?username=josecorreamorales&repo=Modelo-de-regresion-de-precios-Inmobiliarios--tensorflow&theme=calm">
 </a>
 </p>
 
@@ -281,7 +285,6 @@ export class Social {
 <a href="https://platzi.com/p/JoseCorreaMorales/" target="_blank">
   <img src="https://img.shields.io/badge/Platzi-98CA3F?style=flat&logo=platzi&logoColor=white" height="30" alt="Platzi" title="Platzi Profile" />
 </a>
-
 <a href="https://codigofacilito.com/usuarios/JoseCorreaMorales" target="_blank">
   <img src="https://img.shields.io/badge/🐊%20Código%20Facilito-262b34?style=flat&logo=https://imgur.com/RC3OQ3T" height="30" alt="Código Facilito" title="Perfil en Código Facilito" />
 </a>
